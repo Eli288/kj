@@ -1,7 +1,7 @@
 # Princezna na hrášku
 ------
 
-![princezna_na_hrasku](Princezna na hrášku.jpg)
+![princezna_na_hrasku](postel.jpg)
 
 Bylo jednou jedno království a v tom království žil princ. Byl to princ udatný, chrabrý, chytrý, hodný a ani špetka krásy mu nechyběla. Jeho otec, starý král, byl ale již velmi stár, a tak princ dostal úkol. Najít si princeznu, kterou by si vzal za nevěstu, a tak mohl kralovat celému království místo svého otce, který by si již jistě rád odpočinul. Takové bylo v jejich království pravidlo, že král musí mít po boku královnu, aby mohli společně kralovat.
 
